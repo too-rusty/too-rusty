@@ -2,7 +2,7 @@
 - 👀 I’m interested in Golang, Rust, Haskell, React
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me
-  - email -> abhish014@gmail.com
+  - email -> abhish014@gmail.com , abhi111094@gmail.com
   
 
 <!---
