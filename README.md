@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @too-rusty
-- 👀 I’m interested in Golang, Haskell, React, solidity
-- 🌱 I’m currently learning Golang and solidity
+- 👀 I’m interested in Golang, Rust, solidity
+- 🌱 I’m currently learning Rust solidity and golang
 - 📫 How to reach me
   - email -> abhish014@gmail.com , abhi111094@gmail.com
   
