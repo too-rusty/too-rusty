@@ -2,7 +2,7 @@
 - 👀 I’m interested in Golang, Rust, solidity, smart-contracts
 - 🌱 I’m currently learning solidity
 - 📫 How to reach me
-  - email -> abhish014@gmail.com , abhi111094@gmail.com
+  - email -> sol.dev.abhi@gmail.com
   
 
 <!---
